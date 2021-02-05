@@ -18,5 +18,5 @@ int main()
     
     std::cout<<"Aire="<<(hauteur*largeur)/2<<std::endl;
     
-    
+    int b=0;
 }
