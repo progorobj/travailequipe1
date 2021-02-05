@@ -17,4 +17,6 @@ int main()
     std::cout<<"hauteur="<<hauteur<<std::endl;
     
     std::cout<<"Aire="<<(hauteur*largeur)/2<<std::endl;
+    
+    
 }
